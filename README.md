@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LuongVanVo/LEETCODE/tree/master/0001-two-sum) |
+| [0152-maximum-product-subarray](https://github.com/LuongVanVo/LEETCODE/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/LuongVanVo/LEETCODE/tree/master/0141-linked-list-cycle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/LuongVanVo/LEETCODE/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
