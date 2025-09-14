@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LuongVanVo/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/LuongVanVo/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/LuongVanVo/LEETCODE/tree/master/0152-maximum-product-subarray) |
 ## String
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/LuongVanVo/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/LuongVanVo/LEETCODE/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/LuongVanVo/LEETCODE/tree/master/0191-number-of-1-bits) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/LuongVanVo/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
