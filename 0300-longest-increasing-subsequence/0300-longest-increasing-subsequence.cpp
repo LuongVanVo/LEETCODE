@@ -4,7 +4,7 @@ public:
         vector<int> v;
 
         for (int i = 0; i < nums.size(); i++) {
-            auto it = lower_bound(v.begin(), v.end(), nums[i]);
+            auto it = lower_bound(v.begin(), v.end(), nums[i]); // find element smallest greater nums[i]
             if (it == v.end()) {
                 // if it reference to end vector, then a[i] greater than all current element in vector v
                 v.push_back(nums[i]);
