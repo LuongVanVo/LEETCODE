@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/LuongVanVo/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LuongVanVo/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/LuongVanVo/LEETCODE/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/LuongVanVo/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/LuongVanVo/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/LuongVanVo/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/LuongVanVo/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/LuongVanVo/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0647-palindromic-substrings](https://github.com/LuongVanVo/LEETCODE/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LuongVanVo/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/LuongVanVo/LEETCODE/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/LuongVanVo/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
