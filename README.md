@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/LuongVanVo/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/LuongVanVo/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/LuongVanVo/LEETCODE/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/LuongVanVo/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
 |  |
 | ------- |
@@ -46,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/LuongVanVo/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/LuongVanVo/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/LuongVanVo/LEETCODE/tree/master/0049-group-anagrams) |
+| [0424-longest-repeating-character-replacement](https://github.com/LuongVanVo/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/LuongVanVo/LEETCODE/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LuongVanVo/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/LuongVanVo/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
 | ------- |
