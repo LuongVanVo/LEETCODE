@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LuongVanVo/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/LuongVanVo/LEETCODE/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/LuongVanVo/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/LuongVanVo/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/LuongVanVo/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/LuongVanVo/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/LuongVanVo/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/LuongVanVo/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/LuongVanVo/LEETCODE/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/LuongVanVo/LEETCODE/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/LuongVanVo/LEETCODE/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/LuongVanVo/LEETCODE/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/LuongVanVo/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/LuongVanVo/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/LuongVanVo/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
