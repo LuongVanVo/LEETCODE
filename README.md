@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/LuongVanVo/LEETCODE/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/LuongVanVo/LEETCODE/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/LuongVanVo/LEETCODE/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/LuongVanVo/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/LuongVanVo/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LuongVanVo/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/LuongVanVo/LEETCODE/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/LuongVanVo/LEETCODE/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/LuongVanVo/LEETCODE/tree/master/0268-missing-number) |
 ## Stack
 |  |
