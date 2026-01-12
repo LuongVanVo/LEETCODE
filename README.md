@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/LuongVanVo/LEETCODE/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/LuongVanVo/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/LuongVanVo/LEETCODE/tree/master/0322-coin-change) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/LuongVanVo/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/LuongVanVo/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LuongVanVo/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/LuongVanVo/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/LuongVanVo/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/LuongVanVo/LEETCODE/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/LuongVanVo/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/LuongVanVo/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LuongVanVo/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/LuongVanVo/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/LuongVanVo/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/LuongVanVo/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LuongVanVo/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Dynamic Programming
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LuongVanVo/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/LuongVanVo/LEETCODE/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/LuongVanVo/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/LuongVanVo/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/LuongVanVo/LEETCODE/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/LuongVanVo/LEETCODE/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/LuongVanVo/LEETCODE/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/LuongVanVo/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/LuongVanVo/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
