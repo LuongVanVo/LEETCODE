@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/LuongVanVo/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/LuongVanVo/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/LuongVanVo/LEETCODE/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/LuongVanVo/LEETCODE/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LuongVanVo/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/LuongVanVo/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0997-find-the-town-judge](https://github.com/LuongVanVo/LEETCODE/tree/master/0997-find-the-town-judge) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/LuongVanVo/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/LuongVanVo/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/LuongVanVo/LEETCODE/tree/master/0049-group-anagrams) |
+| [0290-word-pattern](https://github.com/LuongVanVo/LEETCODE/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/LuongVanVo/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/LuongVanVo/LEETCODE/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
