@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/LuongVanVo/LEETCODE/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LuongVanVo/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/LuongVanVo/LEETCODE/tree/master/0435-non-overlapping-intervals) |
+| [0997-find-the-town-judge](https://github.com/LuongVanVo/LEETCODE/tree/master/0997-find-the-town-judge) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LuongVanVo/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/LuongVanVo/LEETCODE/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LuongVanVo/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/LuongVanVo/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0997-find-the-town-judge](https://github.com/LuongVanVo/LEETCODE/tree/master/0997-find-the-town-judge) |
 ## Linked List
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/LuongVanVo/LEETCODE/tree/master/0322-coin-change) |
+## Graph
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/LuongVanVo/LEETCODE/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
