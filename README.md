@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/LuongVanVo/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/LuongVanVo/LEETCODE/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/LuongVanVo/LEETCODE/tree/master/0290-word-pattern) |
+| [0415-add-strings](https://github.com/LuongVanVo/LEETCODE/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/LuongVanVo/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/LuongVanVo/LEETCODE/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/LuongVanVo/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/LuongVanVo/LEETCODE/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/LuongVanVo/LEETCODE/tree/master/0415-add-strings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LuongVanVo/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Binary Search
 |  |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/LuongVanVo/LEETCODE/tree/master/0997-find-the-town-judge) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/LuongVanVo/LEETCODE/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
