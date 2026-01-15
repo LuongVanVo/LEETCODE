@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/LuongVanVo/LEETCODE/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/LuongVanVo/LEETCODE/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/LuongVanVo/LEETCODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/LuongVanVo/LEETCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/LuongVanVo/LEETCODE/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/LuongVanVo/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LuongVanVo/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/LuongVanVo/LEETCODE/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/LuongVanVo/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/LuongVanVo/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/LuongVanVo/LEETCODE/tree/master/0198-house-robber) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/LuongVanVo/LEETCODE/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/LuongVanVo/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 ## Breadth-First Search
 |  |
