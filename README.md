@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/LuongVanVo/LEETCODE/tree/master/0207-course-schedule) |
 | [0572-subtree-of-another-tree](https://github.com/LuongVanVo/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/LuongVanVo/LEETCODE/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/LuongVanVo/LEETCODE/tree/master/0322-coin-change) |
 ## Graph
 |  |
@@ -190,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/LuongVanVo/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/LuongVanVo/LEETCODE/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/LuongVanVo/LEETCODE/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
