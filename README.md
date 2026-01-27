@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LuongVanVo/LEETCODE/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/LuongVanVo/LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/LuongVanVo/LEETCODE/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/LuongVanVo/LEETCODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/LuongVanVo/LEETCODE/tree/master/0056-merge-intervals) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/LuongVanVo/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/LuongVanVo/LEETCODE/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/LuongVanVo/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/LuongVanVo/LEETCODE/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/LuongVanVo/LEETCODE/tree/master/0415-add-strings) |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/LuongVanVo/LEETCODE/tree/master/0207-course-schedule) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/LuongVanVo/LEETCODE/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
