@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LuongVanVo/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/LuongVanVo/LEETCODE/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/LuongVanVo/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/LuongVanVo/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/LuongVanVo/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/LuongVanVo/LEETCODE/tree/master/0198-house-robber) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/LuongVanVo/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/LuongVanVo/LEETCODE/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/LuongVanVo/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/LuongVanVo/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/LuongVanVo/LEETCODE/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/LuongVanVo/LEETCODE/tree/master/0415-add-strings) |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/LuongVanVo/LEETCODE/tree/master/0048-rotate-image) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/LuongVanVo/LEETCODE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
