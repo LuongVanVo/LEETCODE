@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/LuongVanVo/LEETCODE/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/LuongVanVo/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/LuongVanVo/LEETCODE/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/LuongVanVo/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LuongVanVo/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## String
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/LuongVanVo/LEETCODE/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/LuongVanVo/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/LuongVanVo/LEETCODE/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/LuongVanVo/LEETCODE/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
