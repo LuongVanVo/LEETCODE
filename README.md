@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LuongVanVo/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/LuongVanVo/LEETCODE/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/LuongVanVo/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/LuongVanVo/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/LuongVanVo/LEETCODE/tree/master/0143-reorder-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LuongVanVo/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/LuongVanVo/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/LuongVanVo/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/LuongVanVo/LEETCODE/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/LuongVanVo/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/LuongVanVo/LEETCODE/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/LuongVanVo/LEETCODE/tree/master/0290-word-pattern) |
 | [0415-add-strings](https://github.com/LuongVanVo/LEETCODE/tree/master/0415-add-strings) |
